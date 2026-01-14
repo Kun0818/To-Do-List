@@ -3,7 +3,7 @@ import { Toaster } from '@/components/ui/toaster';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'GitTodo',
+  title: 'ToDo',
   description: 'A lightweight and beautifully designed todo list application.',
 };
 

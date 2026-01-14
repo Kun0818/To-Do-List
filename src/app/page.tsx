@@ -59,7 +59,7 @@ export default function Home() {
       <div className="w-full max-w-2xl">
         <Card className="shadow-lg">
           <CardHeader>
-            <CardTitle className="font-headline text-4xl font-bold tracking-tight text-center">GitTodo</CardTitle>
+            <CardTitle className="font-headline text-4xl font-bold tracking-tight text-center">ToDo</CardTitle>
             <CardDescription className="text-center text-lg">
               Your lightweight and stylish task manager.
             </CardDescription>
